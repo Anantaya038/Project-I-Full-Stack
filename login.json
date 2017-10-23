@@ -1,0 +1,11 @@
+{
+  "information": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "12345",
+      "name": "Anantaya",
+      "status": "admin"
+    }
+  ]
+}
